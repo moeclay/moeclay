@@ -1,6 +1,6 @@
 Hello friends 👋
 
-My name is Moe aka MoeClay, I am Senior FrontEnd Consultant at [MicroThink](https://github.com/moetadashi). I write a post about frontend development on my personal blog, moeclay.github.io, and I'm working hard on an open source project to create more value for the web community. The 'more effort now to save effort later' mentality & clean code as a lifestyle.
+My name is Moe aka MoeClay, I am Senior FrontEnd Consultant at [MoeTadashi](https://github.com/moetadashi). I write a post about frontend development on my personal blog, [moeclay.github.io](moeclay.github.io), and I'm working hard on an open source project to create more value for the web community. The 'more effort now to save effort later' mentality & clean code as a lifestyle.
 
 Ambassador at Moetadashi
 GoogleDevExpert in Web Technologies.
