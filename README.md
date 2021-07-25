@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello friends 👋
 
-<!--
-**moeclay/moeclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Moe aka MoeClay, I am Senior FrontEnd Consultant at [MicroThink](https://github.com/moetadashi). I write a post about frontend development on my personal blog, moeclay.github.io, and I'm working hard on an open source project to create more value for the web community. The 'more effort now to save effort later' mentality & clean code as a lifestyle.
 
-Here are some ideas to get you started:
+Ambassador at Moetadashi
+GoogleDevExpert in Web Technologies.
+Fell in love with Vue, Bulma, and AMP components 🥰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=moeclay&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeclay&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
