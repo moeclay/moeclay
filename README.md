@@ -13,5 +13,4 @@ Ambassador at Moetadashi
 GoogleDevExpert in Web Technologies.
 Fell in love with Vue, Bulma, and AMP components 🥰
 
-- 📷 Follow me on [Instagram](https://instagram.com/by_moeamar)
 - 🚀 Reach  me on moeamarreza@gmail.com
