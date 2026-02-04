@@ -1,6 +1,6 @@
 ## Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=moeclay&show_icons=true" alt="Contributions" />
+<img src="https://github-stats-alpha.vercel.app/api?username=moeclay&show_icons=true" alt="Contributions" />
 
 ## Most used languages
 
